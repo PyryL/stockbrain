@@ -3,7 +3,7 @@ This project is related to a computer science course [Building AI](https://build
 
 ⚠️ **Warning!** The user of this model is responsible of all financial loss oneself. This is just an experimental project.
 
-## Answers to the questions
+## Summary
 
 1. Let me introduce **StockBrain**: a machine learning model that predicts the direction of a stock market based on ten previous days.
 2. Knowing where the stocks are going is an important skill for investors - both professionals and individuals - because it's the way they make money. This AI model helps with this problem by giving an idea of what is maybe going to happen next day, so that the user can find the best time to buy and sell shares.
@@ -11,7 +11,7 @@ This project is related to a computer science course [Building AI](https://build
 4. My model is most likely being used on investor's desktop by themself or by their automatised investing AI. It's important to make sure that the user understands the limits and weaknesses of this model. This should only be used as an extra advice.
 5. The phenomenon that this AI is built to model (stock market movement) is not always predictable and regular. Unexpected events - such as COVID-19 in March 2020 - may occur. The investors are always responsible of their money themselves.
 6. The AI could become better by taking account of more parameters and key values as well as longer-term changes in the stock price. The whole project could grow and reach attention by proving its capability in action.
-7. *Later in this README.*
+7. Dependencies can be found later in this Readme. The idea of this project is my own and all of the code (excluding dependencies) is written solely by me without forking etc.
 
 
 ## TL;DR - How can I use it?
